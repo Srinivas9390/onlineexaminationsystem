@@ -4,11 +4,9 @@ This is a web-based Online Examination System designed to help conduct tests dig
 
 ## Features
 
-- Admin dashboard for managing questions and tests.
 - Student login to take exams.
 - Result analysis and reporting.
-- Secure login system.
-
+  
 ## Technologies Used
 
 - Python, TKinter
