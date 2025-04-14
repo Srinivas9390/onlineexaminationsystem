@@ -16,6 +16,9 @@ This is a web-based Online Examination System designed to help conduct tests dig
 1. Extract the ZIP file.
 2. Run the main file
 
+## License
+This project is open-source and free to use under the MIT License.
+
 ## Author
 
 Srinivas Sunkari
